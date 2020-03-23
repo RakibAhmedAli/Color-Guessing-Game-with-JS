@@ -1,6 +1,8 @@
 body{
     background-color: lightblue;
     font-family: cursive;
+    margin: 0%;
+    padding: 0%;  
 }
 .colourButton {
     background-color: rgb(255,0,0);
